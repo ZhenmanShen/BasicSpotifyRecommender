@@ -6,3 +6,5 @@ Idea 1: Randomly print song from 1.2M+ song dataset, if user likes the song, nar
 Idea 2: Print the top 10 songs that are similar to the liked song and give the probability match
 
 energy,key,loudness,speechiness,acousticness,instrumentalness,tempo, danceability, valence
+
+https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs
